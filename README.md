@@ -1,2 +1,3 @@
 # storage
-storage related topic
+分享存储的相关知识
+进行积累和提高
